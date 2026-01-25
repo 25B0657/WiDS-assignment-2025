@@ -1,4 +1,4 @@
-Repo contant:
+Repo contant (Updated):
 
 WiDS "Assignment1Question1" (Includes first question of Assignment 1)
 
@@ -6,6 +6,9 @@ WiDS "Assignment1Question2" (Includes second question of assignment 1)
 
 WiDS_Week2assignment (all questions in 1 file)
 
+WiDS " " (Whole assignment in single file)
+
+Codes for the Final submission ""
 
 This repository contains all the assignment given to students for the WiDS 2025 "Spotify Song Mood Classifier" project. 
 In this project, we were given different learning resources each week. 
@@ -30,3 +33,5 @@ A specific mood for each song in the dataset was assigned using code.
 A trained model is also incuded at the end. 
 The result I got for the model shows that my model it good at identifying extreme moods such as very sad and very happy but it struggles to detecting moods like happy and neutral. 
 This means model is slightly biased and needs some improvement. 
+
+
