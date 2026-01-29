@@ -10,6 +10,8 @@ WiDS_assignment_3_ (Whole assignment-3 in single file)
 
 Codes for the Final submission "WiDS_FinalProject_ipynb"
 
+WiDS project report (A file containing the report of the project)
+
 This repository contains all the assignment given to students for the WiDS 2025 "Spotify Song Mood Classifier" project. 
 In this project, we were given different learning resources each week. 
 Based on those resources, assignment questions were provided to check our understanding of each topic. 
@@ -46,3 +48,6 @@ for the final model, data cleaning, data scaling, K-means clustering and Hyperpa
 Codes for that are clearly given notations.
 Other than that, the file includes neccesory comments to explain what has been performed on the dataset. 
 At the end of everything I got comparission and evaluations based on the model. 
+
+
+The repo also includes a pdf file containg report of all 3 weeks' learing and the assignments done by me as a part of the project. 
