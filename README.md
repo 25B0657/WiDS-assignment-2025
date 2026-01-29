@@ -6,9 +6,9 @@ WiDS "Assignment1Question2" (Includes second question of assignment 1)
 
 WiDS_Week2assignment (all questions in 1 file)
 
-WiDS_assignment_3_ (Whole assignment in single file)
+WiDS_assignment_3_ (Whole assignment-3 in single file)
 
-Codes for the Final submission ""
+Codes for the Final submission "WiDS_FinalProject_ipynb"
 
 This repository contains all the assignment given to students for the WiDS 2025 "Spotify Song Mood Classifier" project. 
 In this project, we were given different learning resources each week. 
