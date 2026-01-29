@@ -6,7 +6,7 @@ WiDS "Assignment1Question2" (Includes second question of assignment 1)
 
 WiDS_Week2assignment (all questions in 1 file)
 
-WiDS " " (Whole assignment in single file)
+WiDS_assignment_3_ (Whole assignment in single file)
 
 Codes for the Final submission ""
 
@@ -34,15 +34,15 @@ A trained model is also incuded at the end.
 The result I got for the model shows that my model it good at identifying extreme moods such as very sad and very happy but it struggles to detecting moods like happy and neutral. 
 This means model is slightly biased and needs some improvement. 
 
-The file "" contains codes for the assignment 3 for the WiDS project. 
+The file "WiDS_assignment_3_" contains codes for the assignment 3 for the WiDS project. 
 In this assignment, K-means clustering, Elbow method and Hierarchical clustering has been performed on the code. 
 In the Elbow method, Optimum K was found by creating graphical representation (line graph).
 For this assignment, codes were in formate of fill in the blanks, which has been edited by me to make it performable. 
 other than that all the neccesory comments are mantioned in the file with output. 
 
 
-The file WiDS final project, contains codes for the final submission of the project model. 
-for the final model, K-means clustering and Hyperparameter tuning has been performed on the dataset. 
+The file "WiDS_FinalProject_ipynb" contains the codes for the final submission of the project model. 
+for the final model, data cleaning, data scaling, K-means clustering and Hyperparameter tuning has been performed on the dataset. 
 Codes for that are clearly given notations.
 Other than that, the file includes neccesory comments to explain what has been performed on the dataset. 
 At the end of everything I got comparission and evaluations based on the model. 
